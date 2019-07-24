@@ -1,2 +1,16 @@
 # fx-mobile.github.io
-foresee移动端官网
+Landing page for fx-mobile
+
+## Development
+
+```shell
+npm run dev
+```
+
+## Deploy
+```
+npm run deploy
+```
+
+## License
+MIT
