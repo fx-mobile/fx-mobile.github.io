@@ -11,8 +11,8 @@
         <div class="page-home-buttons">
           <a href="//fx-mobile.github.io/fx-doc" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>开始使用</span></a>
           <a href="//fx-mobile.github.io/fx-mui" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>组件示例</span></a>
-          <a href="//fx-mobile.github.io/fx-ued" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>UED规范</span></a>
-          <a href="//fx-mobile.github.io/fx-fed" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>FED规范</span></a>
+          <a href="//www.github.com/fx-mobile/fx-ued" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>UED规范</span></a>
+          <a href="//www.github.com/fx-mobile/fx-fed" class="page-home-button" v-show="descAnimateReady" transition="enter" target="_blank"><span>FED规范</span></a>
         </div>
         <div class="page-home-gitbtn">
           <iframe src="https://ghbtns.com/github-btn.html?user=fx-mobile&repo=fx-mui&type=star&count=true" frameborder="0" scrolling="0" width="110px" height="20px" v-show="descAnimateReady" transition="enter"></iframe>
