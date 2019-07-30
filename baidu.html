@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <input type="button" onclick="goback()" value="返回"></input>
+    <iframe src="https://m.baidu.com/" name="frame1" id="frame1" scrolling="no" frameborder="0"
+        style="overflow: auto; margin: auto;width: 100%;"></iframe>
+</body>
+<script>
+    let oIframe = document.getElementById("frame1");
+    const deviceHeight = document.documentElement.clientHeight;
+    oIframe.style.height = Number(deviceHeight) - 120 + "px"; //数字是页面布局高度差
+
+    function goback(){
+        history.back(-1);
+    }
+</script>
+
+</html>
