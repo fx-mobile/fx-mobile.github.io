@@ -3,7 +3,7 @@
     <div class="page-home-content">
       <div class="page-home-jumbotron">
         <div class="page-home-logo" :class="{ 'logo-animate': logoAnimateReady }">
-          <img src="../assets/fx-mui.svg" alt="">
+          <img src="../assets/logo.jpg" alt="">
           <p class="page-home-title">Mint UI</p>
           <p></p>
         </div>
@@ -78,11 +78,7 @@
               <i class="iconfont icon-shiliangzhinengduixiang9"></i>
               <span>Thanks to the efficient component-based approach of Vue.js, Mint UI is pretty light-weight. When all imported, the compressed code takes only ~30kb (JS + CSS) gzip space.</span>
             </li>
-          </ul>
-
-          <div class="page-home-qrcode">
-            <img src="../assets/qrcode.svg" alt="">
-          </div>
+          </ul>       
         </div>
 
         <div class="page-home-phone" v-if="!smallScreen">
@@ -91,7 +87,7 @@
       </div>
 
       <footer class="page-home-footer">
-        <a href="https://github.com/fx-mobile">© FORESEE</a>
+        <a href="https://github.com/thethreekingdoms">© https://github.com/thethreekingdoms</a>
       </footer>
     </div>
   </section>

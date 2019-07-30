@@ -3,7 +3,7 @@
     <div class="page-home-content">
       <div class="page-home-jumbotron">
         <div class="page-home-logo" :class="{ 'logo-animate': logoAnimateReady }">
-          <img src="../assets/fx-mui.gif" alt="">
+          <img src="../assets/logo.jpg" alt="">
           <p class="page-home-title">fx-mobile</p>
           <p></p>
         </div>
@@ -89,7 +89,7 @@
       </div>
 
       <footer class="page-home-footer">
-        <a href="https://github.com/fx-mobile">© FORESEE</a>
+        <a href="https://github.com/thethreekingdoms">© https://github.com/thethreekingdoms</a>
       </footer>
     </div>
   </section>

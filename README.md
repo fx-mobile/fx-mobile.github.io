@@ -1,5 +1,4 @@
 # fx-mobile.github.io
-Landing page for fx-mobile
 
 ## Development
 
@@ -7,6 +6,9 @@ Landing page for fx-mobile
 npm run dev
 ```
 
+```shell
+npm run dist
+```
 ## Deploy
 ```
 npm run deploy
@@ -28,6 +30,7 @@ https://fx-mobile.github.io
 [https://github.com/fx-mobile/fx-api(前端返回报文规范)](https://github.com/fx-mobile/fx-api)
 
 [https://github.com/fx-mobile/fx-webpack(前端统一打包方案)](https://github.com/fx-mobile/fx-webpack)
+
 
 
 ## License
