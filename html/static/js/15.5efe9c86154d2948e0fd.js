@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{254:function(e,t,n){"use strict";n.r(t);function s(){var e=this.$createElement;return(this._self._c||e)("router-view")}s._withStripped=!0;var i={},r=n(0),u=Object(r.a)(i,s,[],!1,null,null,null);u.options.__file="src/pages/system/index.vue";t.default=u.exports}}]);
+//# sourceMappingURL=15.5efe9c86154d2948e0fd.js.map
