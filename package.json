@@ -17,7 +17,7 @@
   "bugs": {
     "url": "github.com/fx-mobile/fx-mobile.github.io/issues"
   },
-  "author": "foresee",
+  "author": "jeffycai",
   "license": "MIT",
   "dependencies": {
     "fx-mui": "^1.0.0"
